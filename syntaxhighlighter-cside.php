@@ -3,7 +3,7 @@
 Plugin Name: SyntaxHighlighter Evolved: Dynamics NAV CSide Brush
 Description: Adds support for the Dynamics NAV C/AL Cside language to the SyntaxHighlighter Evolved plugin.
 Author: David Cox
-Version: 0.1
+Version: 0.2
 Author URI: http://adeptris.com/
 */
  

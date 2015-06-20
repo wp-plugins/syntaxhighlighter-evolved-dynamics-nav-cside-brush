@@ -24,7 +24,7 @@
 	function Brush()
 	{
 		var keywords =	'DIV MOD IN AND OR NOT XOR ASSERTERROR BEGIN CASE DO DOWNTO ' +
-				'ELSE END EXIT FOR IF OF REPEAT THEN TO UNTIL WHILE WITH';
+				'ELSE END EXIT FOR IF OF REPEAT THEN TO UNTIL WHILE WITH TRUE FALSE';
 						
 		this.regexList = [
 			{ regex: /{(?!\$)[\s\S]*?}/gm,					css: 'comments' },  	// multiline comments { }

@@ -2,9 +2,9 @@
 Contributors: David Cox (http://adeptris.com)
 Donate link: http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/donate/
 Tags: syntaxhighlighter, evolved, brush, syntax, highlighter, highlighting, Cside, CAL, Dynamics NAV
-Stable tag: 0.1
+Stable tag: 0.2
 Requires at least: 3.9
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 License: GPLv2
 
 Adds support for the Dynamics NAV CAL Cside Programming Language to the SyntaxHighlighter Evolved plugin.
@@ -31,7 +31,11 @@ Usage Instructions, see [this plugin's homepage](http://adeptris.com/cal-syntax-
 == Changelog ==
 = 1.0 = 
 Initial release.
+= 2.0 = 
+Added TRUE and FALSE in Blue.
 
 == Upgrade Notice ==
 = 1.0 = 
 Initial release.
+= 2.0 = 
+Added TRUE and FALSE in Blue.
